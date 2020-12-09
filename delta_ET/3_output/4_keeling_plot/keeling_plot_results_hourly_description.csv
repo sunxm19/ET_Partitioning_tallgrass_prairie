@@ -1,0 +1,30 @@
+,column name,Description,unit
+1,my_timestamp,Timestamp for Keeling-plot regression,yyyy-mm-dd HH:MM:SS
+2,my_date,Date for observation,yyyy-mm-dd
+3,my_time,Time at hourly interval,HH:MM
+4,time_decimal,Time as numerical in 24-hour format ,0-23
+5,intercept_estimate_hydrogen,"y-intercept estimation (i.e., ?ET) for 2H",per mile ‰
+6,intercept_se_hydrogen,"stadnard error of y-intercept estimation (i.e., ?ET) for 2H",per mile ‰
+7,slope_estimate_hydrogen,slope estimation for Keeling-plot regression for 2H,NA
+8,slope_se_hydrogen,stadnard error of slope estimation for 2H,NA
+9,r.squared_hydrogen,r.squared (R2) value for 2H,
+10,F_statistic_hydrogen,F-statistic for 2H,
+11,F_test_p.value_hydrogen,p-value of F-statistic for 2H,
+12,AIC_hydrogen,the Akaike Information Criterion for 2H,
+13,BIC_hydrogen,the Bayesian Information Criterion for 2H,
+14,intercept_estimate_oxygen,"y-intercept estimation (i.e., ?ET) for 18O",per mile ‰
+15,intercept_se_oxygen,"stadnard error of y-intercept estimation (i.e., ?ET) for 18O",per mile ‰
+16,slope_estimate_oxygen,slope estimation for Keeling-plot regression for 18O,NA
+17,slope_se_oxygen,stadnard error of slope estimation for 18O,NA
+18,r.squared_oxygen,r.squared (R2) value for 18O,
+19,F_statistic_oxygen,F-statistic for 18O,
+20,F_test_p.value_oxygen,p-value of F-statistic for 18O,
+21,AIC_oxygen,the Akaike Information Criterion for 18O,
+22,BIC_oxygen,the Bayesian Information Criterion for 18O,
+23,air_sample_size,Point number for Keeling-plot regression,
+24,air_water_mean,mean value of water mixing ratio,ppmv or mmol mol-1
+25,air_water_sd,standard deviation of water mixing ratio in that hourly interval,ppmv or mmol mol-1
+26,air_hydrogen_mean,"mean value of water vapor (i.e., ?) for 2H",per mile ‰
+27,air_hydrogen_sd,standard deviation of ? for 2H in that hourly interval,per mile ‰
+28,air_oxygen_mean,"mean value of water vapor (i.e., ?) for 18O",per mile ‰
+29,air_oxygen_sd,standard deviation of ? for 18O in that hourly interval,per mile ‰

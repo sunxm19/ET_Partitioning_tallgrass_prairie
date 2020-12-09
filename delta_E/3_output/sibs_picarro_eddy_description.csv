@@ -1,0 +1,18 @@
+,column,Name,Unit
+1,my_timestamp,Timestamp for soil sampling,yyyy-mm-dd HH:MM:SS
+2,date,Date for soil sampling,yyyy-mm-dd 
+3,time_category,"Diurnal label (morning, noon, and afternoon)",
+4,soil_hydrogen_value,Isotopic composition of bulk soil water (2H),per mile ‰
+5,soil_hydrogen_sd,Analysis standard deviation of isotopic composition of bulk soil water (2H),per mile ‰
+6,soil_oxygen_value,Isotopic composition of bulk soil water (18O),per mile ‰
+7,soil_oxygen_sd,Analysis standard deviation of isotopic composition of bulk soil water (18O),per mile ‰
+8,my_time,time for sampling,HH:MM
+9,time_decimal,time in decimal format (0-23),
+10,air_hydrogen_value,"Isotopic composition of water vapor (2H) at 1 meter (if not available, replaced with higher levels)",per mile ‰
+11,air_hydrogen_sd,standard deviation of isotopic composition of water vapor (2H),per mile ‰
+12,air_oxygen_value,"Isotopic composition of water vapor (18O) at 1 meter (if not available, replaced with higher levels)",per mile ‰
+13,air_oxygen_sd,standard deviation of isotopic composition of water vapor (18O),per mile ‰
+14,RH_air,relative humidity of air from eddy covariance biomet data,0-100%
+15,theta_soil,soil water content (0-1),
+16,T_air,temperature of air from eddy covariance biomet sensor,Kelvin
+17,T_soil,temperature of surface soil layer from eddy covariance biomet sensor,Kelvin
