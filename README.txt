@@ -9,7 +9,9 @@ Five folder included, consisting of
 	Delta_ET: folder for calculation of isotopic composition of ET flux
 	Delta_T:  folder for calculation of isotopic composition of transpiration 
 	EC_ET:    folder for ET flux based on eddy covariance measurement
+	dual_isotope_plot: folder for displaying the dual isotope plot.
 	ET_partitioning_results: folder for calculating T/ET
+	
 
 
 These folder usually contains several sub-folders,
